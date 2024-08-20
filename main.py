@@ -5,5 +5,3 @@
 # Do another shock identification
 
 ## Sangmyung: fixed coding mistake
-
-## yoosoon: modifies codes for readability and efficiency
