@@ -3,3 +3,6 @@
 ### Make some changes here
 
 # Do another shock identification
+
+
+## yoosoon: modifies codes for readability and efficiency
