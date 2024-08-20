@@ -1,0 +1,5 @@
+
+/Results
+/Data/*
+
+!/Data/data.txt
